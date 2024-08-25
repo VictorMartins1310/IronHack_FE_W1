@@ -1,0 +1,13 @@
+p{
+    color: blue;
+}
+
+body{
+    background-color: #F3F3F3;
+}
+
+main{
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+}
